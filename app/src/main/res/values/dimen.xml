@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="margin50">50dp</dimen>
+    <dimen name="margin500dp">300dp</dimen>
+    <dimen name="margin300dp">200dp</dimen>
+    <dimen name="margin25">25dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="default_margin">20dp</dimen>
+    <dimen name="text_large">24sp</dimen>
+</resources>
